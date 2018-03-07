@@ -1,10 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Indoor positioning",
+  "name": "iBeacon indoor positioning dashboard",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "favicon.gif",
+      "sizes": "119x120",
       "type": "image/x-icon"
     }
   ],

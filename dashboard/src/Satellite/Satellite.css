@@ -1,0 +1,10 @@
+.satellite-icon text {
+    opacity: 0;
+    pointer-events: none;
+}
+.satellite-icon:hover text {
+    font-weight: bold;
+    stroke: white;
+    fill: black;
+    opacity: 1;
+}

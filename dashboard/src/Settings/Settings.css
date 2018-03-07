@@ -1,0 +1,15 @@
+ul.known-beacons-list,
+ul.all-beacons-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.known-beacons-list li,
+ul.all-beacons-list li {
+    margin: 0.5em;
+    cursor: pointer;
+}
+ul.known-beacons-list li:hover,
+ul.all-beacons-list li:hover {
+    background-color: darkslategrey;
+}
