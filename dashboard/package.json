@@ -94,5 +94,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "compression-webpack-plugin": "^1.1.10"
   }
 }
