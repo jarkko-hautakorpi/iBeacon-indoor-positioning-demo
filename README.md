@@ -24,3 +24,10 @@ Beacons are shown on a map (office/home floor plan).
 
 ![Screenshot](https://github.com/jarkko-hautakorpi/iBeacon-indoor-positioning-demo/blob/master/screenshot.jpg)
 
+##TODO
+* improve accuracy (average value, faster beacons, sync stations)
+* add beacon MAC whitelist to sidebar
+* add server settings to sidebar
+* add properties to beacon icons
+* connect to iTAG's
+* ... what else?
