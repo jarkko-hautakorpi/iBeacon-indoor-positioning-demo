@@ -88,7 +88,7 @@ class App extends Component {
 
     componentDidMount() {
         // Start MQTT subscription
-        const mqtt = new MessageStack(this.receiver.bind(this));
+        new MessageStack(this.receiver.bind(this));
         this.updateStationMacList();
     }
 
